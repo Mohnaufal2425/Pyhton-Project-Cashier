@@ -127,12 +127,12 @@ class Data:
         total = 0
         for item in self.items:
             total += item[1] * item[2]
-        if total > 500000:
-            discount = total * 0.1
+        if total > 700000:
+            discount = total * 0.3
+        elif total > 500000:
+            discount = total * 0.2
         elif total > 300000:
-            discount = total * 0.08
-        elif total > 200000:
-            discount = total * 0.05
+            discount = total * 0.1
         else:
             discount = 0
         total -= discount
