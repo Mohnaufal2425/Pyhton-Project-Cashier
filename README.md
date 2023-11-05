@@ -75,8 +75,8 @@ Hoodie Green pocket             5               250000                  1250000
 Vest Blue Botton                3               150000                  450000
 ------------------------------------------------------------
 total harga:1700000.0
-diskon: 170000.0
-total yang harus dibayar: 1530000.0
+diskon: 510000.0
+total yang harus dibayar: 1190000.0
 
 **Conclussion**
 1. Product input only with code to shorten time
